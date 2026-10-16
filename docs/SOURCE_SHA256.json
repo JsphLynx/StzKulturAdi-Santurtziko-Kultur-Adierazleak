@@ -1,0 +1,14 @@
+{
+  "original_commit": "4a2df1583867599e809c2d1abdf82255f8a5d917",
+  "verified": "2026-10-16",
+  "sha256": {
+    "app/app.js": "f2fedeb3e4d6d2440d4e82b9cf411e30328668540797311d308b55b1aff12013",
+    "app/historical-review.js": "0596333b20e5ac4a39e01fe0445751b1457055a2e34825674b7b942e84932453",
+    "app/index.html": "84fc6f4e73ebc144cb01398c536c0ee983fb67f75ba0e20c02d8fc841a355808",
+    "app/model.js": "19a63ebdd2726e81167131ca5368aa98e8e10b7f4d7078f9d4e2bcdd20313aca",
+    "app/review-data.js": "b9c4ffb1004aec2fc8aeda0dd837bf07702d092b24731c7246699ad6f9b52b52",
+    "app/review-views.js": "1a03830088fe876b3cb102ad9ab84dfd8a2dc5b97d379250b85a871bc1d9b01a",
+    "app/source-catalog.js": "98229e813a30feebe1996d9d0525cdd41a4a1853a032057f8786e3f31bcf5805",
+    "app/styles.css": "0215ea586898c804fffa753e9d633ca68361c90ff6081dc1c289540c83dc936d"
+  }
+}
