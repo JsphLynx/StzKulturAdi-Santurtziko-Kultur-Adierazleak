@@ -38,17 +38,7 @@ El trabajo se desarrolló con apoyo de IA generativa. El repositorio permite ins
 
 Requisitos: Git, Python 3 y un navegador moderno. No requiere instalar paquetes ni compilar.
 
-```bash
-git clone https://github.com/JsphLynx/StzKulturAdi-Santurtziko-Kultur-Adierazleak.git
-cd StzKulturAdi-Santurtziko-Kultur-Adierazleak
-python -m http.server 8000 --bind 127.0.0.1 --directory app
-```
-
-Abre [http://localhost:8000](http://localhost:8000). En Windows puedes usar `py -m http.server 8000 --bind 127.0.0.1 --directory app`; en Linux/macOS, `python3` en lugar de `python`. Detén el servidor con `Ctrl+C`.
-
-Los módulos ES requieren servir los archivos por HTTP: no basta con abrir `index.html` mediante doble clic. El mapa base externo necesita conexión; los cálculos y registros demo se procesan en el navegador.
-
-La [instancia original alojada](https://stzkulturadi.quejigoia.chatgpt.site) conserva acceso restringido, comprobado el 16/10/2026. Para evaluar el proyecto sin acceso a esa instancia, utiliza el código local o el [recorrido visual en PDF](docs/pdf/04_Demostracion_StzKulturAdi.pdf).
+Para evaluar el proyecto sin acceso a esa instancia, utiliza el código local o el [recorrido visual en PDF](docs/pdf/04_Demostracion_StzKulturAdi.pdf).
 
 ## Un caso reproducible: San Juan
 
